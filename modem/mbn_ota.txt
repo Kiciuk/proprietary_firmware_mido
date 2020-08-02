@@ -1,0 +1,10 @@
+mcfg_sw/generic/al1512/cmcc/commerci/mcfg_sw.mbn
+mcfg_sw/generic/al1512/ct/commerci/mcfg_sw.mbn
+mcfg_sw/generic/al1512/cu/commerci/mcfg_sw.mbn
+mcfg_sw/generic/al1512/row/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/al1512/rjio/commerci/mcfg_sw.mbn
+mcfg_sw/generic/al1512/ytl/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/al1512/airtel/commerci/mcfg_sw.mbn
+mcfg_sw/generic/al1512/pl/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/al1512/vdf_in/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/al1512/umobile/commerci/mcfg_sw.mbn
